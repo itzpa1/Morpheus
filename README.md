@@ -121,8 +121,6 @@ Open: http://localhost:3000
 
 ## 📸 Screenshots
 
-### Add screenshots inside /screenshots:
-
 #### About Section Preview
 
 ![About Section](/public/Screenshots/about.png)
