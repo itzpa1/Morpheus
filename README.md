@@ -77,8 +77,8 @@ Inspired by futuristic UI trends and cinematic hero sections.
 ### 1️⃣ Clone Morpheus
 
 ```bash
-git clone https://github.com/itzpa1/morpheus-portfolio.git
-cd morpheus-portfolio
+git clone https://github.com/itzpa1/morpheus.git
+cd morpheus
 ```
 
 ### 2️⃣ Install Dependencies
